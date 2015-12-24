@@ -1,0 +1,17 @@
+{
+  "name": "jamaica-site",
+  "preferGlobal": true,
+  "version": "0.0.1",
+  "author": "Ben Hastings <ben.hastings@gmail.com",
+  "description": "simple SPA for jamaica church building fund",
+  "license": "MIT",
+  "engines": {
+    "node": ">=0.10"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "browser-sync": "^2.9.11",
+    "gulp": "^3.9.0",
+    "gulp-sass": "^2.0.4"
+  }
+}
